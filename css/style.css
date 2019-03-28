@@ -39,3 +39,7 @@ figcaption {
   text-decoration:  none;
 }
 
+#details a:link {
+  color: black;
+  text-decoration:  none;
+}
